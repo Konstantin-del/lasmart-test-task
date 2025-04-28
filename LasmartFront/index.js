@@ -1,51 +1,27 @@
 
 $( document ).ready(function(){
 
-    
-    
-    $(".circle").submit(function(event){
+    $(".circle").submit(async function(e){
         let $form = $(this);
-        event.preventDefault();
+        e.preventDefault();
         let circle = {};
-
         circle.x = parseInt($form.find('input[name="x"]').val());
         circle.y = parseInt($form.find('input[name="y"]').val());
         circle.radius = parseInt($form.find('input[name="radius"]').val());
         circle.color = $form.find('input[name="color"]').val();
 
         const jsonString = JSON.stringify(circle);
-        console.log(jsonString)
-        $.ajax({
-            url: "https://localhost:7241/circle",
-            type: "POST",
-            data: jsonString,
-            contentType: "application/json; charset=utf-8",
-            dataType: "json",
-        })
-       //location.reload(true);
-    });
-
-    
-    $(".comment").submit(function(event){
-        let commentForm = $(this);
-        event.preventDefault();
-        //console.log(value)
-        let comment = {}
-        comment.comment = commentForm.find('input[name="text"]').val();
-        comment.colorBackground = commentForm.find('input[name="background"]').val();
-        comment.circleId = 1;
-
-        const jsonString = JSON.stringify(comment);
-
-        console.log(jsonString)
-    
-        $.ajax({
-            url: "https://localhost:7241/circle/comment",
-            type: "POST",
-            data: jsonString,
-            contentType: "application/json; charset=utf-8",
-            dataType: "json",
-        })
+        await fetch("https://localhost:7241/circle",{
+            method: 'POST',
+            headers:{
+                'Accept': 'application/json',
+                "Content-Type": "application/json; charset=utf-8",
+            },
+            body: jsonString,
+        });
+        setTimeout(()=>{
+            location.reload();   
+        },300)
     });
 
     $("#btn1").click(function(){
@@ -64,8 +40,8 @@ $( document ).ready(function(){
 })
 
 async function getCircles(){
-    return await fetch('https://localhost:7241/circle')
-        .then(response => response.json());
+    let response = await fetch('https://localhost:7241/circle')
+    return response.json();
 }
 
 const CreateCirclesAndCommits = (circles) => {
@@ -82,7 +58,6 @@ const CreateCirclesAndCommits = (circles) => {
                 y: item.y,
                 draggable: true,
             });
-
 
             const circle = new Konva.Circle({
                 x: item.x,
@@ -146,36 +121,56 @@ const CreateCirclesAndCommits = (circles) => {
         stage.add(layer);
     }); 
 
-    //let value;
-
     layer.on('click', (event) => {
         const circle = event.target; 
         if (circle instanceof Konva.Circle) { 
-            const id = circle.id(); 
-            console.log(id)
-            value = id;
+            let circleId = circle.id(); 
             $(".popup_comment").show();
+            sendFormComment(circleId)
         }
+    });
+
+    layer.on('dblclick', (event) => {
+        let isTrye = confirm('remove cercle?')
+        
+        const circle = event.target; 
+        if (circle instanceof Konva.Circle && isTrye) { 
+            let circleId = circle.id();
+            console.log(circleId);
+            deleteCercle(circleId);
+            location.reload();
+        }
+
     });
 }
 
-        
+function sendFormComment(circleId){
+    $(".comment").submit(async function(e){
+        let commentForm = $(this);
+        //e.preventDefault();
+        let comment = {};
+        comment.comment = commentForm.find('input[name="text"]').val();
+        comment.colorBackground = commentForm.find('input[name="background"]').val();
+        comment.circleId = circleId;
 
-    
-// function writeMessage(message) {
-//     text.text(message);
-// }
+        const jsonString = JSON.stringify(comment);
 
-// circle.on('mouseover', () => {
-//     writeMessage('Mouseover circle');
-// });
+        await fetch("https://localhost:7241/circle/comment",{
+            method: 'POST',
+            headers:{
+                'Accept': 'application/json',
+                "Content-Type": "application/json; charset=utf-8",
+            },
+            body: jsonString,
+        });
+    });
+}  
 
-// circle.on('mousedown', () => {
-//     writeMessage('Mousedown circle');
-// });
+async function deleteCercle(id) {
+    await fetch(`https://localhost:7241/circle/${id}`, {
+        method: 'DELETE',
+    })
+}
 
-// circle.on('mouseup', () => {
-//     writeMessage('');
-// });
     
 

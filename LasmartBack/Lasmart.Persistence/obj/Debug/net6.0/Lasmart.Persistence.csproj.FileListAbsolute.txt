@@ -11,3 +11,15 @@ C:\code\TestTaskLesmart\LasmartBack\Lasmart.Persistence\obj\Debug\net6.0\Lasmart
 C:\code\TestTaskLesmart\LasmartBack\Lasmart.Persistence\obj\Debug\net6.0\refint\Lasmart.Persistence.dll
 C:\code\TestTaskLesmart\LasmartBack\Lasmart.Persistence\obj\Debug\net6.0\Lasmart.Persistence.pdb
 C:\code\TestTaskLesmart\LasmartBack\Lasmart.Persistence\obj\Debug\net6.0\ref\Lasmart.Persistence.dll
+C:\code\lesmarc-test-task\LasmartBack\Lasmart.Persistence\bin\Debug\net6.0\Lasmart.Persistence.deps.json
+C:\code\lesmarc-test-task\LasmartBack\Lasmart.Persistence\bin\Debug\net6.0\Lasmart.Persistence.dll
+C:\code\lesmarc-test-task\LasmartBack\Lasmart.Persistence\bin\Debug\net6.0\Lasmart.Persistence.pdb
+C:\code\lesmarc-test-task\LasmartBack\Lasmart.Persistence\obj\Debug\net6.0\Lasmart.Persistence.csproj.AssemblyReference.cache
+C:\code\lesmarc-test-task\LasmartBack\Lasmart.Persistence\obj\Debug\net6.0\Lasmart.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\lesmarc-test-task\LasmartBack\Lasmart.Persistence\obj\Debug\net6.0\Lasmart.Persistence.AssemblyInfoInputs.cache
+C:\code\lesmarc-test-task\LasmartBack\Lasmart.Persistence\obj\Debug\net6.0\Lasmart.Persistence.AssemblyInfo.cs
+C:\code\lesmarc-test-task\LasmartBack\Lasmart.Persistence\obj\Debug\net6.0\Lasmart.Persistence.csproj.CoreCompileInputs.cache
+C:\code\lesmarc-test-task\LasmartBack\Lasmart.Persistence\obj\Debug\net6.0\Lasmart.Persistence.dll
+C:\code\lesmarc-test-task\LasmartBack\Lasmart.Persistence\obj\Debug\net6.0\refint\Lasmart.Persistence.dll
+C:\code\lesmarc-test-task\LasmartBack\Lasmart.Persistence\obj\Debug\net6.0\Lasmart.Persistence.pdb
+C:\code\lesmarc-test-task\LasmartBack\Lasmart.Persistence\obj\Debug\net6.0\ref\Lasmart.Persistence.dll
