@@ -1,0 +1,13 @@
+C:\code\TestTaskLesmart\LasmartBack\Lasmark.Dal\bin\Debug\net6.0\Lasmark.Dal.deps.json
+C:\code\TestTaskLesmart\LasmartBack\Lasmark.Dal\bin\Debug\net6.0\Lasmark.Dal.dll
+C:\code\TestTaskLesmart\LasmartBack\Lasmark.Dal\bin\Debug\net6.0\Lasmark.Dal.pdb
+C:\code\TestTaskLesmart\LasmartBack\Lasmark.Dal\obj\Debug\net6.0\Lasmark.Dal.csproj.AssemblyReference.cache
+C:\code\TestTaskLesmart\LasmartBack\Lasmark.Dal\obj\Debug\net6.0\Lasmark.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\TestTaskLesmart\LasmartBack\Lasmark.Dal\obj\Debug\net6.0\Lasmark.Dal.AssemblyInfoInputs.cache
+C:\code\TestTaskLesmart\LasmartBack\Lasmark.Dal\obj\Debug\net6.0\Lasmark.Dal.AssemblyInfo.cs
+C:\code\TestTaskLesmart\LasmartBack\Lasmark.Dal\obj\Debug\net6.0\Lasmark.Dal.csproj.CoreCompileInputs.cache
+C:\code\TestTaskLesmart\LasmartBack\Lasmark.Dal\obj\Debug\net6.0\Lasmark.Dal.sourcelink.json
+C:\code\TestTaskLesmart\LasmartBack\Lasmark.Dal\obj\Debug\net6.0\Lasmark.Dal.dll
+C:\code\TestTaskLesmart\LasmartBack\Lasmark.Dal\obj\Debug\net6.0\refint\Lasmark.Dal.dll
+C:\code\TestTaskLesmart\LasmartBack\Lasmark.Dal\obj\Debug\net6.0\Lasmark.Dal.pdb
+C:\code\TestTaskLesmart\LasmartBack\Lasmark.Dal\obj\Debug\net6.0\ref\Lasmark.Dal.dll

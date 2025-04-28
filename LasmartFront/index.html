@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="index.css"/>
+</head>
+<body>
+   
+    <div class="main_container">
+        <header>
+            <button id="btn1">add circled</button>
+        </header>
+        <div class="popup">
+            <button id="btn2">x</button>
+            <h3>add circle</h3>
+            <form class="circle">
+                <!-- <input type="text" placeholder="enter comment" name="comment" value=""/> -->
+                <input type="number" placeholder="x" name="x" />
+                <input type="number" placeholder="y" name="y" />
+                <input type="number" placeholder="radius"name="radius" />
+                <label>
+                    <input type="color" placeholder="color"name="color" />   
+                color</label>
+                <input type="submit" class="submit1"/>
+            </form>
+        </div>
+        <div class="popup_comment">
+            <button id="btn3">x</button>
+            <h3>add commit</h3>
+            <form class="comment">
+                <input type="text" placeholder="enter comment" name="text" value=""/>
+                <label>
+                    <input type="color" placeholder="color"name="background" />   
+                color</label>
+                <input type="submit" class="submit2"/>
+            </form>
+        </div>
+        </div><div id='container'>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script src="https://unpkg.com/konva@9/konva.min.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>
