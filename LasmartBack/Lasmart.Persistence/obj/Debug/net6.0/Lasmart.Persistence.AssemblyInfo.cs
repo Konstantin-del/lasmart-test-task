@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lasmart.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+418c3f297f4f5e7d0a4cc838dc9288cf22a59798")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af6527555b882d590177817f7a02c7f21d734883")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lasmart.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lasmart.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

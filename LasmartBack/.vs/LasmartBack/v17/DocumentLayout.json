@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\code\\lesmarc-test-task\\LasmartBack\\",
+  "WorkspaceRootPath": "C:\\code\\lasmart-test-task\\LasmartBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|c:\\code\\lesmarc-test-task\\lasmartback\\lasmart.persistence\\circlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|solutionrelative:lasmart.persistence\\circlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|c:\\code\\lasmart-test-task\\lasmartback\\lasmart.persistence\\entitys\\commententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|solutionrelative:lasmart.persistence\\entitys\\commententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF1D5CEC-80AF-4AA2-867D-FDFFC5CD185D}|Lasmart.Presentation\\Lasmart.Presentation.csproj|c:\\code\\lesmarc-test-task\\lasmartback\\lasmart.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF1D5CEC-80AF-4AA2-867D-FDFFC5CD185D}|Lasmart.Presentation\\Lasmart.Presentation.csproj|solutionrelative:lasmart.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|c:\\code\\lesmarc-test-task\\lasmartback\\lasmart.persistence\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|solutionrelative:lasmart.persistence\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|c:\\code\\lesmarc-test-task\\lasmartback\\lasmart.persistence\\entitys\\circleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|c:\\code\\lasmart-test-task\\lasmartback\\lasmart.persistence\\entitys\\circleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|solutionrelative:lasmart.persistence\\entitys\\circleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|c:\\code\\lesmarc-test-task\\lasmartback\\lasmart.persistence\\icirclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|solutionrelative:lasmart.persistence\\icirclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|c:\\code\\lasmart-test-task\\lasmartback\\lasmart.persistence\\circlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|solutionrelative:lasmart.persistence\\circlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|c:\\code\\lesmarc-test-task\\lasmartback\\lasmart.persistence\\entitys\\commententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|solutionrelative:lasmart.persistence\\entitys\\commententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF1D5CEC-80AF-4AA2-867D-FDFFC5CD185D}|Lasmart.Presentation\\Lasmart.Presentation.csproj|c:\\code\\lasmart-test-task\\lasmartback\\lasmart.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1D5CEC-80AF-4AA2-867D-FDFFC5CD185D}|Lasmart.Presentation\\Lasmart.Presentation.csproj|solutionrelative:lasmart.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|c:\\code\\lasmart-test-task\\lasmartback\\lasmart.persistence\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|solutionrelative:lasmart.persistence\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|c:\\code\\lasmart-test-task\\lasmartback\\lasmart.persistence\\icirclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C44247-F29D-46E7-9142-0D63EC1E1798}|Lasmart.Persistence\\Lasmart.Persistence.csproj|solutionrelative:lasmart.persistence\\icirclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,11 +54,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Context.cs",
-              "DocumentMoniker": "C:\\code\\lesmarc-test-task\\LasmartBack\\Lasmart.Persistence\\Context.cs",
+              "DocumentMoniker": "C:\\code\\lasmart-test-task\\LasmartBack\\Lasmart.Persistence\\Context.cs",
               "RelativeDocumentMoniker": "Lasmart.Persistence\\Context.cs",
-              "ToolTip": "C:\\code\\lesmarc-test-task\\LasmartBack\\Lasmart.Persistence\\Context.cs",
+              "ToolTip": "C:\\code\\lasmart-test-task\\LasmartBack\\Lasmart.Persistence\\Context.cs",
               "RelativeToolTip": "Lasmart.Persistence\\Context.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,11 +66,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CircleEntity.cs",
-              "DocumentMoniker": "C:\\code\\lesmarc-test-task\\LasmartBack\\Lasmart.Persistence\\Entitys\\CircleEntity.cs",
+              "DocumentMoniker": "C:\\code\\lasmart-test-task\\LasmartBack\\Lasmart.Persistence\\Entitys\\CircleEntity.cs",
               "RelativeDocumentMoniker": "Lasmart.Persistence\\Entitys\\CircleEntity.cs",
-              "ToolTip": "C:\\code\\lesmarc-test-task\\LasmartBack\\Lasmart.Persistence\\Entitys\\CircleEntity.cs",
+              "ToolTip": "C:\\code\\lasmart-test-task\\LasmartBack\\Lasmart.Persistence\\Entitys\\CircleEntity.cs",
               "RelativeToolTip": "Lasmart.Persistence\\Entitys\\CircleEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,23 +78,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "CommentEntity.cs",
-              "DocumentMoniker": "C:\\code\\lesmarc-test-task\\LasmartBack\\Lasmart.Persistence\\Entitys\\CommentEntity.cs",
+              "DocumentMoniker": "C:\\code\\lasmart-test-task\\LasmartBack\\Lasmart.Persistence\\Entitys\\CommentEntity.cs",
               "RelativeDocumentMoniker": "Lasmart.Persistence\\Entitys\\CommentEntity.cs",
-              "ToolTip": "C:\\code\\lesmarc-test-task\\LasmartBack\\Lasmart.Persistence\\Entitys\\CommentEntity.cs",
+              "ToolTip": "C:\\code\\lasmart-test-task\\LasmartBack\\Lasmart.Persistence\\Entitys\\CommentEntity.cs",
               "RelativeToolTip": "Lasmart.Persistence\\Entitys\\CommentEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T18:39:22.025Z"
+              "WhenOpened": "2025-04-27T18:39:22.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ICircleRepository.cs",
-              "DocumentMoniker": "C:\\code\\lesmarc-test-task\\LasmartBack\\Lasmart.Persistence\\ICircleRepository.cs",
+              "DocumentMoniker": "C:\\code\\lasmart-test-task\\LasmartBack\\Lasmart.Persistence\\ICircleRepository.cs",
               "RelativeDocumentMoniker": "Lasmart.Persistence\\ICircleRepository.cs",
-              "ToolTip": "C:\\code\\lesmarc-test-task\\LasmartBack\\Lasmart.Persistence\\ICircleRepository.cs",
+              "ToolTip": "C:\\code\\lasmart-test-task\\LasmartBack\\Lasmart.Persistence\\ICircleRepository.cs",
               "RelativeToolTip": "Lasmart.Persistence\\ICircleRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,29 +103,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CircleRepository.cs",
-              "DocumentMoniker": "C:\\code\\lesmarc-test-task\\LasmartBack\\Lasmart.Persistence\\CircleRepository.cs",
+              "DocumentMoniker": "C:\\code\\lasmart-test-task\\LasmartBack\\Lasmart.Persistence\\CircleRepository.cs",
               "RelativeDocumentMoniker": "Lasmart.Persistence\\CircleRepository.cs",
-              "ToolTip": "C:\\code\\lesmarc-test-task\\LasmartBack\\Lasmart.Persistence\\CircleRepository.cs",
+              "ToolTip": "C:\\code\\lasmart-test-task\\LasmartBack\\Lasmart.Persistence\\CircleRepository.cs",
               "RelativeToolTip": "Lasmart.Persistence\\CircleRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T11:47:55.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T11:47:55.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\code\\lesmarc-test-task\\LasmartBack\\Lasmart.Presentation\\Program.cs",
+              "DocumentMoniker": "C:\\code\\lasmart-test-task\\LasmartBack\\Lasmart.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "Lasmart.Presentation\\Program.cs",
-              "ToolTip": "C:\\code\\lesmarc-test-task\\LasmartBack\\Lasmart.Presentation\\Program.cs",
+              "ToolTip": "C:\\code\\lasmart-test-task\\LasmartBack\\Lasmart.Presentation\\Program.cs",
               "RelativeToolTip": "Lasmart.Presentation\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T10:33:39.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T10:33:39.215Z"
             }
           ]
         }
